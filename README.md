@@ -6,7 +6,7 @@ Welcome to my GitHub profile!
 
 - 👨‍💻 Passionate developer and technology enthusiast.
 - 🌱 Always learning something new in software development, open source, and cloud technologies.
-- 💡 I love building projects, and challenge my coding skills.
+- 💡 I love building projects, and challenging my coding skills.
 
 ## 🛠️ Technologies & Tools
 
