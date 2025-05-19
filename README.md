@@ -1,4 +1,4 @@
-# Hi there, I'm Dey880 👋
+# Hi there, I'm Dey880 (Dey <3, Day4y3, tunetunfisk, etc.) 👋
 
 Welcome to my GitHub profile!
 
@@ -6,13 +6,13 @@ Welcome to my GitHub profile!
 
 - 👨‍💻 Passionate developer and technology enthusiast.
 - 🌱 Always learning something new in software development, open source, and cloud technologies.
-- 💡 I love building projects, contributing to open source, and sharing knowledge with the community.
+- 💡 I love building projects, and challenge my coding skills.
 
 ## 🛠️ Technologies & Tools
 
 - **Languages:** JavaScript, Python, Java, C++, ✨🎉CSS🎉✨
 - **Frameworks:** React, Node.js, Express
-- **Databases:** MongoDB
+- **Databases:** MongoDB, database.txt, database,json
 - **Cloud & DevOps:** Docker, GitHub Actions, CI/CD
 - **Other:** Linux, Bash scripting, Minecraft Server Professional
 
@@ -23,7 +23,7 @@ Welcome to my GitHub profile!
 
 ## 📫 Let's Connect
 
-- 💬 Ask me about anything! I'm always open to collaboration and new ideas.
+- 💬 Ask me about anything! I'm always open to talk about anything.
 - 📧 [Email me](mailto:julianpedersen1@proton.me) <!-- Replace with your real email if desired -->
 - 🔗 [LinkedIn](https://www.linkedin.com/in/julianatpedersen/) <!-- Replace with your real LinkedIn if desired -->
 
