@@ -23,14 +23,16 @@ Welcome to my GitHub profile!
 
 ## 📫 Let's Connect
 
-- 💬 Ask me about anything! I'm always open to talk about anything.
+- 💬 Ask me about anything! I'm always open to talk!
 - 📧 [Email me](mailto:julianpedersen1@proton.me)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/julianatpedersen/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/julianatpedersen/) (why would you choose this, i didnt even remember i had one for like 1.5 years)
 - 📫 Discord: Day4y3
 
-## 📝 Latest Projects
+## 📝 Latest Projects:
 
-- 🚧 _Check back soon — I'm always working on something cool!
+- nothing noteworthy yet
+
+- 🚧 Check back soon — I'm always working on something cool!
 
 ---
 
