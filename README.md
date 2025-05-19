@@ -26,11 +26,11 @@ Welcome to my GitHub profile!
 - 💬 Ask me about anything! I'm always open to talk about anything.
 - 📧 [Email me](mailto:julianpedersen1@proton.me)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/julianatpedersen/)
-- 📫 [Discord]Day4y3
+- 📫 Discord: Day4y3
 
 ## 📝 Latest Projects
 
-- 🚧 _Check back soon — I'm always working on something cool!_
+- 🚧 _Check back soon — I'm always working on something cool!
 
 ---
 
