@@ -26,7 +26,9 @@ Welcome to my GitHub profile!
 - 💬 Ask me about anything! I'm always open to talk!
 - 📧 [Email me](mailto:julianpedersen1@proton.me)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/julianatpedersen/) (why would you choose this, i didnt even remember i had one for like 1.5 years)
-- 📫 Discord: Day4y3
+
+
+  [![Discord Presence](https://lanyard.cnrad.dev/api/565580859638284300?idleMessage=codin'%20or%20something&showDisplayName=true&hideTimestamp=true)](https://discord.com/users/565580859638284300)
 
 ## 📝 Latest Projects:
 
