@@ -12,9 +12,9 @@ Welcome to my GitHub profile!
 
 - **Languages:** JavaScript, Python, Java, C++, ✨🎉CSS🎉✨
 - **Frameworks:** React, Node.js, Express
-- **Databases:** MongoDB, database.txt, database,json
+- **Databases:** MongoDB, database.txt, database.json (just a joke im not that incompetant😭)
 - **Cloud & DevOps:** Docker, GitHub Actions, CI/CD
-- **Other:** Linux, Bash scripting, Minecraft Server Professional
+- **Other:** Linux Professional, Intermediate Bash scripting Person, Minecraft Server Professional
 
 ## 📈 GitHub Stats
 
@@ -24,8 +24,9 @@ Welcome to my GitHub profile!
 ## 📫 Let's Connect
 
 - 💬 Ask me about anything! I'm always open to talk about anything.
-- 📧 [Email me](mailto:julianpedersen1@proton.me) <!-- Replace with your real email if desired -->
-- 🔗 [LinkedIn](https://www.linkedin.com/in/julianatpedersen/) <!-- Replace with your real LinkedIn if desired -->
+- 📧 [Email me](mailto:julianpedersen1@proton.me)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/julianatpedersen/)
+- 📫 [Discord]Day4y3
 
 ## 📝 Latest Projects
 
