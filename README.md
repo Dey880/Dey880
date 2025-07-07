@@ -36,7 +36,7 @@ Welcome to my GitHub profile!
 
 ## 📝 Latest Projects:
 
-- nothing noteworthy yet
+- Learning TypeScript, Next.js and SQL to be ready for the worklife B-)
 
 - 🚧 Check back soon — I'm always working on something cool!
 
