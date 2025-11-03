@@ -12,7 +12,7 @@ Welcome to my GitHub profile!
 
 - **Languages:** JavaScript, Python, Java, C++, ✨🎉CSS🎉✨
 - **Frameworks:** React, Node.js, Express
-- **Databases:** MongoDB, database.txt, database.json (just a joke im not that incompetant😭)
+- **Databases:** MongoDB, database.txt, database.json(/j)
 - **Cloud & DevOps:** Docker, GitHub Actions, CI/CD
 - **Other:** Linux Professional, Intermediate Bash scripting Person, Minecraft Server Professional
 
