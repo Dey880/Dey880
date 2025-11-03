@@ -24,8 +24,9 @@ Welcome to my GitHub profile!
 ## 📫 Let's Connect
 
 - 💬 Ask me about anything! I'm always open to talk!
+- 🧿 [Send me a message on Discord](https://discord.com/users/565580859638284300)
 - 📧 [Email me](mailto:julianpedersen1@proton.me)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/julianatpedersen/) (why would you choose this, i didnt even remember i had one for like 1.5 years)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/julianatpedersen/) (if you believe that this is the best option...)
  
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/565580859638284300?theme=dark&idleMessage=Probably%20codin'%20or%20something&showDisplayName=true&hideTimestamp=true&borderRadius=15px)](https://discord.com/users/565580859638284300)
