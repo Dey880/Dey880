@@ -8,10 +8,12 @@ Welcome to my GitHub profile!
 - 🌱 Always learning something new in software development, open source, and cloud technologies.
 - 💡 I love building projects, and challenging my coding skills.
 
+- 🎶 Avid music lover.
+  
 ## 🛠️ Technologies & Tools
 
-- **Languages:** JavaScript, Python, Java, C++, ✨🎉CSS🎉✨
-- **Frameworks:** React, Node.js, Express
+- **Languages:** TypeScript, JavaScript, Python, HTML✨🎉CSS🎉✨
+- **Frameworks:** React, Express.js
 - **Databases:** MongoDB, PostgreSQL, database.txt(/j)
 - **Cloud & DevOps:** Docker, GitHub Actions, CI/CD
 - **Other:** Linux Professional, Intermediate Bash scripting Person, Minecraft Server Professional
