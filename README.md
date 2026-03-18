@@ -20,7 +20,7 @@ Welcome to my GitHub profile!
 
 ## 📈 GitHub Stats
 
-![Dey880's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dey880&show_icons=true&theme=github_dark)
+![Dey880's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dey880&show_icons=true&theme=github_dark&hide=stars,prs,issues,contribs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dey880&layout=compact&theme=github_dark)
 
 ## 📫 Let's Connect
@@ -39,7 +39,9 @@ Welcome to my GitHub profile!
 
 ## 📝 Latest Projects:
 
-- Learning TypeScript, Next.js and SQL to be ready for the worklife B-)
+~~- Learning TypeScript, Next.js and SQL to be ready for the worklife B-)~~
+
+- Caught up in spice-ing up my spotify. [Repo](https://github.com/Dey880/Spotify-miniplayer)
 
 - 🚧 Check back soon — I'm always working on something cool!
 
