@@ -17,12 +17,7 @@ Welcome to my GitHub profile!
 - **Databases:** MongoDB, PostgreSQL, database.txt(/j)
 - **Cloud & DevOps:** Docker, GitHub Actions, CI/CD
 - **Other:** Linux Professional, Intermediate Bash scripting Person, Minecraft Server Professional
-
-## 📈 GitHub Stats
-
-![Dey880's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dey880&show_icons=true&theme=github_dark&hide=stars,prs,issues,contribs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dey880&layout=compact&theme=github_dark)
-
+- 
 ## 📫 Let's Connect
 
 - 💬 Ask me about anything! I'm always open to talk!
