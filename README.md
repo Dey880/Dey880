@@ -16,14 +16,14 @@ Welcome to my GitHub profile!
 - **Frameworks:** React, Express.js
 - **Databases:** MongoDB, PostgreSQL, database.txt(/j)
 - **Cloud & DevOps:** Docker, GitHub Actions, CI/CD
-- **Other:** Linux Professional, Intermediate Bash scripting Person, Minecraft Server Professional
-- 
+- **Other:** Spicetify API enthusiast, Linux Professional, Intermediate Bash scripting Person, Minecraft Server Professional
+  
 ## 📫 Let's Connect
 
 - 💬 Ask me about anything! I'm always open to talk!
 - 🧿 [Send me a message on Discord](https://discord.com/users/565580859638284300)
 - 📧 [Email me](mailto:julianpedersen1@proton.me)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/julianatpedersen/) (if you believe that this is the best option...)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/julianatpedersen/)
  
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/565580859638284300?theme=dark&idleMessage=Probably%20codin'%20or%20something&showDisplayName=true&hideTimestamp=true&borderRadius=15px)](https://discord.com/users/565580859638284300)
